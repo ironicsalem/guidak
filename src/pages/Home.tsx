@@ -7,7 +7,7 @@ const Home: React.FC = () => {
     <div className="flex flex-col min-h-screen">
       {/* Hero section with Petra background */}
       <Hero 
-        backgroundImage="../../public/petra.jpg"
+        backgroundImage="/petra.jpg"
         title="Wonderful Jordan"
         subtitle="Explore the wonders of Jordan"
       />
